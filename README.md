@@ -4,6 +4,10 @@ Protective/supporting caps for creating triangle-based structures using our LED 
 For camp 2023 we wanted to build a structure using LED bars based on pipes we already have and rope running on the inside of the pipes. 3 pipes will be assembled to form  triangle and the triangles will be assembled to create shapes. For this, the ends of the pipes need a proper load bearing area and also some protection for the cables running on the outside. This repo contains 3D printable end caps which will hopefully do that job.
 
 ## Design/Test Notes
+## 'cap_v4' Design
+<img src="cap_v4.png" width="250">
+
+  - WIP, the version we are currently testing/improving
 ## 'cap_v3' Design
 <img src="cap_v3.png" width="250">
 
